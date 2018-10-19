@@ -15,6 +15,7 @@
   <url>http://maven.apache.org</url>
   
   <!-- 修改1 -->
+ <!-- 修改2 -->
   <properties>
  		 <!-- 指定JDK版本 -->
 		<maven.compiler.source>10</maven.compiler.source>
