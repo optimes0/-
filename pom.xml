@@ -16,6 +16,7 @@
   
   <!-- 修改1 -->
  <!-- 修改2 -->
+ <!-- 修改3 -->
   <properties>
  		 <!-- 指定JDK版本 -->
 		<maven.compiler.source>10</maven.compiler.source>
