@@ -14,10 +14,7 @@
   <name>m1</name>
   <url>http://maven.apache.org</url>
   
-  <!-- 修改1 -->
- <!-- 修改2 -->
- <!-- 修改3 -->
- <!-- 分支修改 -->
+  
   <properties>
  		 <!-- 指定JDK版本 -->
 		<maven.compiler.source>10</maven.compiler.source>
